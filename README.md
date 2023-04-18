@@ -17,8 +17,7 @@ python ImageMosaic.py
 - 行数
 - 列数
 - 输出路径
-
-![image-20230418135435359](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230418135435359.png)
+![图片](https://user-images.githubusercontent.com/106393608/232687131-2a4ba12e-c290-4d1c-b3d2-e20bbf30a7aa.png)
 
 
 
